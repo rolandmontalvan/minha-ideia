@@ -1,0 +1,25 @@
+{
+  "name": "minha-ideia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolandmontalvan/minha-ideia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolandmontalvan/minha-ideia/issues"
+  },
+  "homepage": "https://github.com/rolandmontalvan/minha-ideia#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
